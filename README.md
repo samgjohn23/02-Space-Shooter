@@ -1,2 +1,10 @@
-# 02-Space-Shooter
-My space shooter
+## References
+None
+
+## Future Development
+None
+
+## Created by 
+Sam Johnson
+
+```
